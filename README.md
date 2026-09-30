@@ -1,6 +1,6 @@
 # Hi, I'm Himasriya 👋
 
-🎓 Master's Student in Computer Science @ UCF (GPA: 3.92)
+🎓 Master's Student in Computer Science @ UCF (GPA: 3.96)
 💻 Full-Stack Developer | AI/ML Enthusiast
 🌐 Portfolio: [himasriyaengu.github.io](https://himasriyaengu.github.io)
 
